@@ -48,5 +48,4 @@ Foi realizada uma análise exploratória e o pré-processamento dos dados para g
 ## **Estrutura do Projeto**
 
 
-├── data/                       
-# Conjunto de dados utilizado no projeto
+├── data/    Conjunto de dados utilizado no projeto
