@@ -1,5 +1,8 @@
 # Projeto Câncer
+
 Projeto de Machine Learning com o objetivo de classificar um câncer como benigno ou magligno baseado no quadro clínico do câncer.
+Os dados utilizados nesse projeto foram extraídos da plataforma Kaggle e podem ser conferidos a partir do link abaixo:
+https://www.kaggle.com/datasets/imtkaggleteam/breast-cancer
 ---
 
 ## **Descrição do Projeto**
